@@ -1,4 +1,4 @@
-//takes an array of integers and returns their sum recursivelyys
+//takes an array of integers and returns their sum recursivelyyss
 
 const recSum = (arr) => {
   if (arr.length == 1) {
