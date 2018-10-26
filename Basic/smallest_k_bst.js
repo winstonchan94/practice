@@ -23,4 +23,4 @@ function kthSmallest(root, k) {
   }
 }
 
-//this problem can also be solved by in-order traversal, taking the first k traversed.
+//this problem can also be solved by in-order traversal, taking the first k traversed..
