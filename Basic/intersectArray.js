@@ -10,5 +10,6 @@ function intersectArray (arr1, arr2) {
       seen[arr2[j]] = true;
     }
   }
-  return results; 
+  return results;
 }
+//given two arrays return a new array of all uniq intersecting values
