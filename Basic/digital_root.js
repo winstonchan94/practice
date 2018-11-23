@@ -9,4 +9,4 @@ const digitalRoot = (num) => {
   return digitalRoot(num);
 };
 
-//recursive solution
+//recursive solutionxd
