@@ -1,4 +1,4 @@
-//given a string and a shift increment return an encoded stringsss
+//given a string and a shift increment return an encoded stringssss
 
 const caesarCipher = (str, shift) => {
   let alpha = Array.from({ length: 26 }, (_, i) => String.fromCharCode('a'.charCodeAt(0) + i));
