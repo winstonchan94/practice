@@ -1,4 +1,4 @@
-//given a string and a shift increment return an encoded stringssssss
+//jgiven a string and a shift increment return an encoded stringssssss
 //given a string and a shift increment return an encoded stringsssssss
 
 const caesarCipher = (str, shift) => {
