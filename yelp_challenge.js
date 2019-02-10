@@ -1,4 +1,4 @@
-//find the response rate of a business to user messages..
+//find the response rate of a business to user messages...
 const findResponseRate = (bizOwnerId, allMessages) => {
   let responseHash = {};
   let totalConvos = 0;
