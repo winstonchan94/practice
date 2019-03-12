@@ -17,7 +17,7 @@ function findLeftDepth(root) {
   }
     return leftDepth;
 }
-// okss
+// oksss
 function findRightDepth(root) {
 	if (!root) {
 	   return 0;
