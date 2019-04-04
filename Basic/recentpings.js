@@ -1,3 +1,4 @@
+//queue implementation
 class Node {
     constructor(val) {
         this.data = val;
