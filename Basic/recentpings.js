@@ -1,4 +1,4 @@
-//queue implementation
+//queue implementation tralal
 class Node {
     constructor(val) {
         this.data = val;
