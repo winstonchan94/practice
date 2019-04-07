@@ -1,4 +1,4 @@
-//queue implementation tralal
+//queue implementation tralala something wicked
 class Node {
     constructor(val) {
         this.data = val;
