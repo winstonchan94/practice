@@ -12,3 +12,5 @@ var removeOuterParentheses = function(S) {
     }
     return tmpString
 };
+
+//remove t he outer parentheses of the thing
