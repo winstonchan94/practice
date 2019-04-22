@@ -6,3 +6,4 @@ var findComplement = function(num) {
     }
     return parseInt(str, 2)
 };
+//find complement
