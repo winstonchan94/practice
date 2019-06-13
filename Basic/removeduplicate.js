@@ -10,6 +10,7 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
+ //just some practice haha
 var deleteDuplicates = function(head) {
     let current = head;
     while (current !== null && current.next !== null) {
