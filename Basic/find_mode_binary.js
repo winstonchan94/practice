@@ -35,3 +35,4 @@ var findMode = function(root) {
     inorder(root);
     return modes;
 };
+//find the mode of a binary tree ( most prevalent number/ value)
