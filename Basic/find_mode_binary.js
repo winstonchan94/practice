@@ -1,3 +1,5 @@
+//given a tree of integer values, find the mode (most appearing number)
+
 var findMode = function(root) {
     let curVal;
     let curCount = 0, maxCount = 0, modeCount = 0;
