@@ -18,6 +18,8 @@ The boundaries of each input argument are 1 <= left <= right <= 10000.
  * @param {number} right
  * @return {number[]}
  */
+
+ //checks for zeros on each digit without converting to string
 var checkForZero = function(num) {
     while (num != 0) {
         if (num % 10 == 0) {
